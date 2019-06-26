@@ -13,4 +13,8 @@ namespace demo_gia_github
             Console.WriteLine("kalhmera");
         }
     }
+    class Otinane
+    {
+
+    }
 }
